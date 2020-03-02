@@ -10,7 +10,7 @@ spring:
     virtual-host: /leyou
 leyou:
   sms:
-    accessKeyId: LTAI4Fv9RG4aSPajZ9AX7bcA # 你自己的accessKeyId
-    accessKeySecret: lYIECKtsoU0YQXV5vWrfV6iIlTqyZA # 你自己的AccessKeySecret
+    accessKeyId: LTAI4Fv9RG4aS # 你自己的accessKeyId
+    accessKeySecret: lYIECKts # 你自己的AccessKeySecret
     signName: 乐优商城 # 签名名称
-    verifyCodeTemplate: SMS_183260447 # 模板名称
+    verifyCodeTemplate: SMS_18 # 模板名称
